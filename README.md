@@ -1,2 +1,2 @@
 # SQLDatabase
-Designed for the Natural Computing Course to Emulate Natural Behaviors in Nature.
+Designed for the Data Engineering Course to build a cryptocurrency database.
